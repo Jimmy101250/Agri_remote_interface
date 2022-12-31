@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Pictures">
+        <file>StyleSheetPictures/MapIcon.png</file>
+        <file>StyleSheetPictures/down1.png</file>
+        <file>StyleSheetPictures/down2.png</file>
+        <file>StyleSheetPictures/left1.png</file>
+        <file>StyleSheetPictures/left2.png</file>
+        <file>StyleSheetPictures/right1.png</file>
+        <file>StyleSheetPictures/right2.png</file>
+        <file>StyleSheetPictures/sphere.png</file>
+        <file>StyleSheetPictures/up1.png</file>
+        <file>StyleSheetPictures/up2.png</file>
+    </qresource>
+</RCC>
